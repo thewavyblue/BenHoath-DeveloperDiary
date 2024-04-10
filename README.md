@@ -1,6 +1,6 @@
 # Developer Diary of Ben Hoath
 I love thinking up tools and apps to make my life easier and more productive. But thinking isn't enough to bring them to life. I have to build them too!
-So this is a repo of my video diary entries about my journey through front-end development as a digital designer, solving problems that I hope somebody else has in common with me :D
+So this is a repo of my video diary entries about my journey through front-end development as a digital designer, solving problems that I hope someone, somewhere has in common with me :D
 
 09.10.24 – Developer Diary #0: Introduction
 [link TBA]
