@@ -10,3 +10,6 @@ https://www.loom.com/share/25d7a3cd834f4c68b14cc1d50d6b9a68?sid=b7410119-9537-4c
 
 11.04.24 – Developer Diary #2: InDesign Colour Swatch JavaScript 'Script'
 https://www.loom.com/share/b9b5ce5f80d4404b87e9edf2188b215a?sid=13016774-76e4-4bdb-9596-87a2beff036a
+
+27.04.24 – Developer Diary #3: Mindforge40k app development
+https://www.loom.com/share/4abf9b1f9847426eafab8cee9f9cd554?sid=b2411f11-214c-4c77-8bfd-5f6fa3d04dc6
